@@ -6,9 +6,9 @@ Develop a program that implements the assigned **Search** and **Sort** algorithm
 >Desarrollar un programa que implemente el algoritmo de búsqueda y ordenamiento asignados sobre una lista enlazada de números enteros. Los elementos de la lista deben ser ingresados por el usuario, posteriormente debe ser ordenada por el algoritmo asignado y finalmente debe permitir realizar búsquedas por el algoritmo señalado.
 
 Developed by: 
-- Jose Luis Alfaro Martinez
-- Antonio Isai Lopez Leal
-- Javier Martin Palmero Torres
+- [Jose Luis Alfaro Martinez](https://github.com/Alpha464)
+- [Antonio Isai Lopez Leal](https://github.com/Isai231095)
+- [Javier Martin Palmero Torres](https://github.com/JavierPalmero23)
 
 ## Sort
 - Bubble Sort
